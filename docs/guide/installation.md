@@ -55,7 +55,7 @@ composer update lumosolutions/actionable
 ```
 
 Always check the [release documentation](https://github.com/LumoSolutions/actionable/releases) for any breaking changes between versions. You can also see
-the [upgrade guide](/advanced/upgrade.md) for more information regarding safe upgrades and future-proofing your code.
+the [upgrade guide](/guide/upgrade.md) for more information regarding safe upgrades and future-proofing your code.
 
 ## What's Next?
 
@@ -67,6 +67,5 @@ Now that Actionable is installed, you're ready to start building:
 
 ## Need Help?
 
-- 📖 Check the [FAQ](/guide/faq) for common questions
 - 🐛 Report issues on [GitHub](https://github.com/LumoSolutions/actionable/issues)
 - 💬 Join discussions in the [GitHub Discussions](https://github.com/LumoSolutions/actionable/discussions)

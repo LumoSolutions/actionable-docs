@@ -491,5 +491,4 @@ SendUrgentAlert::dispatchOn('urgent', $alertData);
 
 ## What's Next?
 
-- **[Migration Guide](/guide/migration)** - Learn how to migrate existing code to Actionable
 - **[Testing Guide](/guide/testing)** - Master testing your actions and DTOs
