@@ -1,0 +1,11 @@
+/* Make the logo bigger */
+.VPNavBarTitle .logo {
+    height: 40px !important; /* Default is usually 24px */
+    width: auto;
+}
+
+/* Alternative selector if the above doesn't work */
+.VPNav .VPNavBarTitle img {
+    height: 40px !important;
+    width: auto;
+}
